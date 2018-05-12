@@ -18,6 +18,8 @@ creator:
     - http://es.wikipedia.org/wiki/Tom%C3%A1s_Falkner
     - http://en.wikipedia.org/wiki/Thomas_Falkner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28542#Descripci-n-de-la-Patagonia-y-de-las-Partes-Adyacentes-de-la-Am-rica-Meridional
 gutenberg_issued: '2009-04-08'
 gutenberg_type: Text
 identifiers:
