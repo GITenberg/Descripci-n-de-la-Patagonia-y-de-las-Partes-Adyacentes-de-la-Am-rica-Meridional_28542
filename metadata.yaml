@@ -1,0 +1,38 @@
+_repo: Descripci-n-de-la-Patagonia-y-de-las-Partes-Adyacentes-de-la-Am-rica-Meridional_28542
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Falkner, Thomas
+    aliases:
+    - Falkner, Tomas
+    - Falconer, Thomas
+    - Falkner, Tomás
+    birthdate: 1707
+    deathdate: 1784
+    gutenberg_agent_id: '33390'
+    url: http://www.gutenberg.org/2009/agents/33390
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Tom%C3%A1s_Falkner
+    - http://en.wikipedia.org/wiki/Thomas_Falkner
+description: ''
+gutenberg_issued: '2009-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28542'
+  lccn: '05042300'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pampas (Argentina)'
+- !lcc 'F2801'
+- !lcsh 'Moluche dialect'
+- !lcsh 'Indians of South America -- Patagonia (Argentina and Chile)'
+- !lcsh 'Falkland Islands'
+- !lcsh 'Patagonia (Argentina and Chile) -- Description and travel'
+title: Descripción de la Patagonia y de las Partes Adyacentes de la América Meridional
+url: http://www.gutenberg.org/ebooks/28542
